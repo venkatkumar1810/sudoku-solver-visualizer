@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+### currently achieved solving but not visualizing
+
 ## Outputs
 ![](./outputs/1.png)
 ----
